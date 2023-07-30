@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>
+      World Health Organization Headquarters, Californian City, United State of America. <br />
+      E-mail: <a href="mailto:uncovid19relieffundprogram@outlook.com">uncovid19relieffundprogram@outlook.com</a>
+    </p>
+    <p>
+      Dear Beneficiary,
+      <br />
+      Your mobile number has been selected among 20 lucky numbers in Asia to receive a sum of $ (£189,000,00 GBP) One Hundred and Eighty-Nine Thousand and (Car) Toyota Aqua (2022 Model) in the 2023 world health organization charity/ donation programmed. We have received your details for the release of your charity fund from the on-going U.N relief fund programmed to help the less privilege during this perilous time. You are advised to fill the fund release application form and submit back to FASTEXCELLENCE COURIER GLOBAL SERVICE via email for delivery process.
+    </p>
+    <p>
+      The United Nations and some International Companies are working so hard to support some countries that have been set back in their Economy because of recent (covid-19) viruses & economic crisis around the world. Countries like Pakistan, Sri Lanka, Afghanistan, South Africa, Liberia, Myanmar etc.
+    </p>
+    <p>
+      All participants were selected randomly through a computer ballot system of different Mobile Numbers from over 100,000 Unions and corporate bodies that are listed all over the world. Your Mobile Number happens to be among the lucky 570 Mobile Numbers selected by our system from over 10 million Mobile Numbers that was used for the contest; this is how you won the U.N Relief Fund Prize. To file your claim, you are to provide your information for final verification to enable you to receive your Cash Prize and your (CAR) Toyota Aqua. Provide your claims information as required below.
+    </p>
+    <p>
+      THE COVID-19 RELIEF FUND is sponsored by United Kingdom and other International Companies. The UN charities, with an annual income of $1b decided to meet the needs of different communities as they emerge from the pandemic and economy breakdown, including:
+      <ul>
+        <li>Help people experiencing physical and mental health issues</li>
+        <li>Financial assistance for people facing financial hardship</li>
+        <li>Support for ethnically diverse communities disproportionately impacted by the crisis</li>
+        <li>Enhancing digital accessibility</li>
+     </ul>
+     The major objective of this project is to support people/organizations who are looking to provide essential support and services to directly facilitate in the recovery from Covid-19 viruses or who have lost significant core income and require financial assistance to recover quickly.
+    </p>
+    <p>
+      Kindly note that the original document of your winning cheque and the certificate with other relative Documents from the court and the probate registry have been forwarded to the Courier Company for onward delivery to you as soon as you contact them. Let it be known to you that all UK Taxes and Delivery Fee have been paid by U.N Relief Team, Therefore, you will only be required to pay only Sri Lanka Local Clearance charges when your Parcel has Arrived in your Country.
+    </p>
+    <p>
+      You are therefore expected to contact our affiliated delivery company (FASTEXCELLENCE COURIER SERVICE) in which your winning cheque of One Hundred and Eighty-Nine Thousand Pound, (£189,000 GBP== Rs83,600,000 LRKS, IN YOUR LOCAL COURRENCY) and (CAR) Toyota Aqua (2022 Model) has been sent for delivery to your residence.
+    </p>
+    <p>
+      Do contact FASTEXCELLENCE COURIER SERVICE with the contact information below for further instructions on how to send the winning cheque to your location. Fill out your verification form below send it to the Courier Company for reference and verification purposes via email also attach your (IDENTIFICATION NUMBERS/ WINNER/NUM/755901) as the subject of any correspondence with your contact COURIER COMPANY to ensure they respond in a timely manner. INDICATE that you are contacting them regarding UN FUND RELIEF.
+    </p>
+    <h3>Covid-19 Fund Release Application Form</h3>
+    <form>
+      Beneficiary Names:<br />
+      <input type="text" name="name" /><br />
+      Beneficiary Address:<br />
+      <input type="text" name="address" /><br />
+      Beneficiary Mobile No:<br />
+      <input type="text" name="mobile" /><br />
+      Beneficiary Gender:<br />
+      <input type="text" name="gender" /><br />
+      Beneficiary Age:<br />
+      <input type="text" name="age" /><br />
+      Beneficiary Marital Status:<br />
+      <input type="text" name="marital" /><br />
+      Beneficiary Occupation:<br />
+      <input type="text" name="occupation" /><br />
+      Beneficiary Country:<br />
+      <input type="text" name="country" /><br /><br />
+      <input type="submit" value="Submit" />
+    </form>
+    <p>
+      Contact Courier with This Email Below:<br />
+      FASTEXCELLENCE COURIER SERVICE.<br />
+      LINK: <a href="https://www.fastexcellencecourierservice.com/">https://www.fastexcellencecourierservice.com/</a><br />
+      DISPATCH OFFICER: MR. ERICKSON JOHN<br />
+      COMPANY EMAIL: <a href="mailto:fastexcellencecourierservice@hotmail.com">fastexcellencecourierservice@hotmail.com</a><br />
+      OFFICE: <a href="mailto:infor@fastexcellencecourierservice.com">infor@fastexcellencecourierservice.com</a><br />
+      Contact us: +447462051486
+    </p>
+    <p>
+      SPECIAL NOTICE:
+      <br />
+      Remember the Fund Relief Team organizers have made all the provisions and settlements to the relevant bodies. Remember Sri Lanka Local Fee Clearance is to be paid by You only and not the Relief Team, for the fact that the lottery organizers have made all the provision expenses, regarding the delivery of the parcel.
+      <br />
+      Also, have it in mind that your won prize cannot be deducted; this is because the total amount has been insured to the Cheque Leaf Value. This is to protect winners and to avoid misappropriation of funds.
+    </p>
+    <p>
+      Note! As soon as they receive your filled application form, they will proceed with the payment release process.
+    </p>
+    <p>
+      From the Management and staff of the Covid-19 Relief Fund Team, we say Congratulations once again! Thank you for your co-operation and congratulations once again in advance,
+    </p>
+    <p>
+      Regards,<br />
+      W.H.O Director General,<br />
+      Dr. Tedros Adhanom Ghebreyesus,<br />
+      E-mail: <a href="mailto:uncovid19relieffundprogram@outlook.com">uncovid19relieffundprogram@outlook.com</a>
+    </p>
+  </body>
+</html>
