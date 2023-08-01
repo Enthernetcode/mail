@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 replyto = 'Your Reaply to Email Id'
 subject = input('Enter Subject Of your Email:\t')
-name = "World Health Organization Headquarters"		#input('Email Name to mask:\t')
+name = input('Email Name to mask:\t')
 
 counter = {}
 
@@ -28,7 +28,9 @@ with open('mails.csv', 'r') as csvfile:
         
         try:
             context = ssl.create_default_context()
-            server = smtplib.SMTP_SSL('smtp.gmail.com', 465, context=context)
+            server = smtplib.SMTP('smtp-mail.outlook.com', 587)
+            server.ehlo()
+            server.starttls(context=context)
             server.login(sender, password)
             em =EmailMessage()
             em['from'] = f'{name} <{sender}>'
@@ -62,6 +64,6 @@ with open('mails.csv', 'r') as csvfile:
                     writer = csv.writer(file)
                     writer.writerows(rows)
 
-print("Emails Sent")
+print("Emails Status")
 for sender, count in counter.items():
     print(f"{sender}: {count}")
