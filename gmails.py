@@ -7,7 +7,7 @@ name = input('Email Name to mask:\t')
 
 counter = {}
 
-with open("user.csv") as f:
+with open(".s.csv") as f: #	"user.csv") as f:
     data = [row for row in csv.reader(f)]
 
 # file_list = ['emails/message' + str(i) + '.txt' for i in range(1,11)] # Multipale Files
